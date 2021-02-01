@@ -15,3 +15,9 @@ portfolio.html
 
 contact.html
 (Will update to become a fully functional contact page.)
+
+<img src="" alt="Horiseon Preview"
+width="150px"/>
+
+<a href="https://ward438.github.io/horiseon-refactor/">View Page</a>
+
