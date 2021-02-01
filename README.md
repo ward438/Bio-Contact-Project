@@ -17,7 +17,7 @@ contact.html
 (Will update to become a fully functional contact page.)
 
 <img src="https://github.com/ward438/Bio-Portal/blob/main/Capture.png" alt="Horiseon Preview"
-width="300px"/>
+width="1000px"/>
 
 <a href="https://ward438.github.io/Bio-Portal/">View Page</a>
 
