@@ -1,8 +1,20 @@
+/* Green backing */
 .background-green {
-  background-color: #4aaaa5;
+  background-color: #107e6d3b;
   color: white;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
+  border-radius: 10px;
+}
+
+/*Top Border*/
+.accent-border {
+  background-color: #005f5175;
+  color: white;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
 }
 
 /*page background */
@@ -10,20 +22,30 @@ body {
   background-image: url("https://i.etsystatic.com/5456592/r/il/926f85/1975030364/il_794xN.1975030364_g6n3.jpg");
 }
 
+/* Main Content Container */
 .container {
   margin-top: 75px;
   background-color: white;
 }
 
+/*Font Size */
 .body-text {
   font-size: medium;
 }
 
+/* Image format */
 .index-img {
   width: 200px;
   padding-right: 25px;
+  padding-top: 5px;
 }
 
+/* Nav Background */
+.navBgrnd {
+  background-color: #cacaca;
+}
+
+/* Footer */
 .footer-grey {
   margin: auto;
   width: 100%;
@@ -32,11 +54,19 @@ body {
   background-color: rgb(90, 88, 88);
   color: white;
   text-align: center;
+  bottom: 0;
 }
 
+/* footer Accent */
 .footer-green {
   margin: auto;
   width: 100%;
   height: 0.5rem;
   background-color: #4aaaa5;
+}
+
+/* P style */
+p {
+  font-size: medium;
+  font-family: "Noto Sans", sans-serif;
 }
