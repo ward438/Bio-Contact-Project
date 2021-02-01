@@ -16,8 +16,8 @@ portfolio.html
 contact.html
 (Will update to become a fully functional contact page.)
 
-<img src="" alt="Horiseon Preview"
-width="150px"/>
+<img src="https://github.com/ward438/Bio-Portal/blob/main/Capture.png" alt="Horiseon Preview"
+width="300px"/>
 
-<a href="https://ward438.github.io/horiseon-refactor/">View Page</a>
+<a href="https://ward438.github.io/Bio-Portal/">View Page</a>
 
