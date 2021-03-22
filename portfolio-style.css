@@ -1,85 +1,116 @@
 /* Main Background */
+
 body {
-  background-image: url("https://i.etsystatic.com/5456592/r/il/926f85/1975030364/il_794xN.1975030364_g6n3.jpg");
+    background-image: url("https://i.etsystatic.com/5456592/r/il/926f85/1975030364/il_794xN.1975030364_g6n3.jpg");
 }
+
 
 /* Paragraph align */
+
 p {
-  text-align: center;
+    text-align: center;
+    font-size: 1vw;
 }
+
+h1 {
+    font-size: 2vw;
+    /* text-align: center; */
+    margin: auto;
+}
+
+#bio-container {
+    margin-left: auto;
+}
+
 
 /* Image Decoration and Font style */
+
 .sep {
-  margin: auto;
-  width: 100%;
-  height: 4rem;
-  padding-top: 1em;
-  background-color: rgb(90, 88, 88);
-  color: white;
-  text-align: center;
+    margin: auto;
+    width: 100%;
+    height: 4rem;
+    padding-top: 1em;
+    background-color: rgb(90, 88, 88);
+    color: white;
+    text-align: center;
 }
 
+
 /* Green backing */
+
 .background-green {
-  background-color: #107e6d3b;
-  color: white;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
-  border-radius: 10px;
+    background-color: #107e6d3b;
+    color: white;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    border-radius: 10px;
 }
 
 .accent-border {
-  background-color: #005f5175;
-  color: white;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
-  border-bottom-right-radius: 10px;
-  border-top-left-radius: 10px;
+    background-color: #005f5175;
+    color: white;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
 }
 
 .nav-bgrnd {
-  background-color: #cacaca;
+    background-color: #cacaca;
 }
+
 
 /* Main Content Container */
+
 .container {
-  margin-top: 75px;
-  background-color: white;
+    margin-top: 75px;
+    background-color: white;
 }
+
+
 /* Image Flex */
+
 .flex-container {
-  display: flex;
-  flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
 }
+
+
 /* Size auto-reformat */
+
 .responsive {
-  width: 100%;
-  height: auto;
-  margin: 2px;
+    width: 100%;
+    height: auto;
+    margin: 2px;
 }
+
 
 /* Image margin */
+
 img {
-  margin-bottom: 20px;
+    margin-bottom: 20px;
 }
+
 
 /* Footer */
-.footer-grey {
-  margin: auto;
 
-  width: 100%;
-  height: 4rem;
-  padding-top: 1em;
-  background-color: rgb(90, 88, 88);
-  color: white;
-  text-align: center;
-  bottom: 0;
+.footer-grey {
+    margin: auto;
+    width: 100%;
+    height: 4rem;
+    padding-top: 1em;
+    background-color: rgb(90, 88, 88);
+    color: white;
+    text-align: center;
+    bottom: 0;
 }
 
+
 /* Footer Accent */
+
 .footer-green {
-  margin: auto;
-  width: 100%;
-  height: 0.5rem;
-  background-color: #4aaaa5;
+    margin: auto;
+    width: 100%;
+    height: 0.5rem;
+    background-color: #4aaaa5;
 }
